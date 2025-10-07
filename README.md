@@ -1,4 +1,4 @@
-# C++ Repository
+# .cpp Repository
 
 This repository contains a collection of my C++ programs, created for school and personal practice. Each file demonstrates core programming concepts covered in class.
 
